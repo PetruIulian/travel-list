@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+<img width="960" alt="image" src="https://github.com/PetruIulian/travel-list/assets/59375493/40d1fa91-2381-4b7b-ba00-37d642a8d7e1">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
